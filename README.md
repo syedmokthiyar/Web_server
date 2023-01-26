@@ -36,8 +36,8 @@ content = """
 </head>
 <body>
 <h1>WELCOME</h1>
-<h2>NAME:G CHETHAN KUMAR</h2>
-<h2>REF.NO.:22005596</h2>
+<h2>NAME:S.M.Syed Mokthiyar</h2>
+<h2>REF.NO.:22006227</h2>
 <h3>LIST OF FRAMEWORKS</h3>
 <h4>-Django</h4>
 <h4>-Ruby on Rails</h4>
